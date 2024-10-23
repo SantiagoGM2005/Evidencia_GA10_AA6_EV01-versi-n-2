@@ -1,0 +1,15 @@
+h1{
+    background-color: blue;
+  
+    color: white;
+    text-align: center;
+}
+img{
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(/frontend/proyecto/src/assets/fondoproyecto.jpg);
+    height: 732px;
+    color: rgb(104, 09, 49);
+}
